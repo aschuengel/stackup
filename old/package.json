@@ -1,0 +1,18 @@
+{
+  "name": "stackup",
+  "version": "1.0.0",
+  "description": "A pcb stackup example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "PCB"
+  ],
+  "author": "we-online.de",
+  "license": "MIT",
+  "dependencies": {
+    "pcb-stackup": "^4.2.8"
+  }
+}
